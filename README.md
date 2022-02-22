@@ -1,6 +1,6 @@
 # ABSA-MIX
 
-File resturant.csv contains samples from the restaurant dataset and laptop.csv contains laptop reviews. 
+File restaurant.csv contains samples from the restaurant dataset and laptop.csv contains laptop reviews. 
 Data is present in the "CSV" format, annotated for aspect terms and corresponding polarities. Polarity can be positive, negative, neutral, or conflict.
 
 ## columns description
