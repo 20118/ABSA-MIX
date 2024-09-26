@@ -11,6 +11,6 @@ Data is present in the "CSV" format, annotated for aspect terms and correspondin
   * A sentence can have zero, single, or multiple aspect terms. A comma separates multiple aspects.
   * Column E contains the sentiment class for each aspect. A comma separates multiple aspects.
 
-## Complete dataset will be made available to the community for further research.
+
 
 ## load.py contains sample code to load data 
