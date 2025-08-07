@@ -1,7 +1,7 @@
 # ABSA-MIX
 
-This repository contains the dataset for our paper:
-"Quality achhi hai (is good), satisfied! Towards aspect based sentiment analysis in code-mixed language"
+This repository contains the dataset and code for our paper:
+"Quality achhi hai (is good), satisfied! Towards aspect based sentiment analysis in code-mixed language" , publsihed in Computer Speech and Language
 
 Link to paper: https://www.sciencedirect.com/science/article/abs/pii/S0885230824000512
 
